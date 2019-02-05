@@ -60,7 +60,7 @@ database:
 If you aren't using a very special setup, you should be able to leave everything as-is but the `table` and the credentials (`username` and `password`).
 You set the table name to the name you created the table with and the credentials to the ones you used to log in to phpMyAdmin.
 
-Nice! Don't forget to save the config and restart the server! Then you should be able to see the playtime **in Milliseconds** at the database.
+Nice! Don't forget to save the config and restart the server! If you join the server and leave it again, you should be able to see the playtime **in Milliseconds** at the database.
 If you want to add another server to track, just add the plugin to this server and create a new table (don't forget to modify the table entry in the config!)
 
 If you have any questions/bugs/improvements, please file an issue.
